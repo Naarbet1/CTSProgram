@@ -1,0 +1,40 @@
+package com.cts.modelimpl;
+
+import com.cts.model.Employee;
+
+public class EmployeeImpel {
+	public boolean save(Employee emp) {
+
+		if(get(emp.getId())!=null)
+		{
+			return false;
+		}
+		
+		empList.add(emp);
+		
+		
+		
+		return true;
+	}
+
+	public boolean update(Employee emp) {
+		if(get(emp.getId())==null)
+		{
+			return false;
+		}
+		
+		empList.add(emp);
+		
+		
+		
+		return true;
+	}
+
+	public boolean delete(int id) {
+		return false;
+	}
+
+	public Employee get(int id) {
+		return null;
+	}
+}

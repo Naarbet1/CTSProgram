@@ -1,0 +1,10 @@
+package com.cts.modeltest;
+
+import com.cts.model.Employee;
+import com.cts.modelimpl.EmployeeImpel;
+
+public class EmployeeTest extends EmployeeImpel {
+Employee emp=new EmployeeImpel();
+Employee emp;
+emp=new Employee()
+}

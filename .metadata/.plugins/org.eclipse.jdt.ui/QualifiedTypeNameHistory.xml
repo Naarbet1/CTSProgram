@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.cts.model.Employee"/>
+<fullyQualifiedTypeName name="com.cts.modelimpl.EmployeeImpel"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.swing.Spring"/>
+<fullyQualifiedTypeName name="com.cts.model.EmployeeDetails"/>
+</qualifiedTypeNameHistroy>

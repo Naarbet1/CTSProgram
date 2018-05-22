@@ -1,0 +1,12 @@
+package com.cts.modeltest;
+
+import com.cts.model.Employee;
+import com.cts.modelimpl.EmployeeImpel;
+
+public class EmployeeTest extends EmployeeImpel implements Employee {
+	public EmployeeTest(int Id, String Name, int Salery) {
+		super(Id, Name, Salery);
+		// TODO Auto-generated constructor stub
+	}
+
+}
