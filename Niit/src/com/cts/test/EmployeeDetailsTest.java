@@ -1,8 +1,8 @@
 package com.cts.test;
 
-import com.cts.assignmentprogrm.Address;
-import com.cts.assignmentprogrm.ContractEmployee;
-import com.cts.assignmentprogrm.EmployeeDetails;
+import com.cts.oopsassignment.Address;
+import com.cts.oopsassignment.ContractEmployee;
+import com.cts.oopsassignment.EmployeeDetails;
 
 public class EmployeeDetailsTest {
 

@@ -2,7 +2,7 @@ package com.cts.test;
 
 import java.util.Scanner;
 
-import com.cts.assignmentprogrm.NumberToString;
+import com.cts.oopsassignment.NumberToString;
 
 public class NumberToStringTest {
 

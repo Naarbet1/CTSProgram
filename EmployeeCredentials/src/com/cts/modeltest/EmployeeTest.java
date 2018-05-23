@@ -1,17 +1,27 @@
 package com.cts.modeltest;
+import java.util.List;
+import com.cts.model.Employee;
+import com.cts.modelimpl.EmployeeImpl;
+import com.cts.modelimpl.EmployeeService;
 
-import com.cts.model.EmployeeDetails;
-
-public class EmployeeTest extends EmployeeDetails {
-	public EmployeeTest(int Id, String Name, int Salery) {
-		super(Id, Name, Salery);
-		// TODO Auto-generated constructor stub
-	}
+public class EmployeeTest{
 
 	public static void main(String[] args) {
-		
-	
+		EmployeeService empService = new EmployeeImpl();
 
+		Employee emp;
+
+		emp = new Employee(01, "Naarbet", 10000);
+
+		empService.save(emp);
+
+		emp = new Employee(02, "Xavier", 45000);
+
+		empService.save(emp);
+
+		List<Employee> empList = empService.get();
+
+		empService.display(empList);
 
 	}
 

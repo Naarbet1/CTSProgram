@@ -1,6 +1,6 @@
 package com.cts.test;
 
-import com.cts.assignmentprogrm.Number;
+import com.cts.oopsassignment.Number;
 
 public class NumberTest {
 	public static void main(String args[]) {

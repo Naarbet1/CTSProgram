@@ -1,6 +1,6 @@
 package com.cts.test;
 
-import com.cts.assignmentprogrm.Palindrome;
+import com.cts.oopsassignment.Palindrome;
 
 public class PalindromeTest {
 @SuppressWarnings("static-access")
