@@ -1,6 +1,8 @@
 package com.oopsbased.program;
 
 public class Palindrome {
+	//should return true or false.
+	//method name should be like isPalindrome()
 	public String palind(int n) {
 		int reverse = 0, rem;
 		int original=n;
