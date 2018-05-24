@@ -6,6 +6,6 @@ public class PrimeOrNotTest {
 	public static void main(String[] args) {
 	
 		PrimeOrNot primeOrNot = new PrimeOrNot();
-		System.out.println(primeOrNot.Prime(50));
+		System.out.println(primeOrNot.isPrime(20));
 	}
 }
