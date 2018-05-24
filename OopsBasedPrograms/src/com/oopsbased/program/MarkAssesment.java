@@ -5,6 +5,7 @@ public class MarkAssesment {
 	public String average(int x, int y, int z) {
 		int Avg;
 		Avg = (x + y + z) / 3;
+		//Why this if condition??
 		if(x>40&&y>40&&z>40&&Avg<=100){
 		switch (Avg / 10) {
 		
@@ -18,6 +19,8 @@ public class MarkAssesment {
 			return "B+";
 		case 5:
 			return "B";
+				
+				//why so many return "FAIL" statements??
 		case 4:
 			return "Fail";
 		case 3:
@@ -41,6 +44,7 @@ public class MarkAssesment {
 		if(avg>=90&&avg<=100){
 			return "A+";
 		}
+			//why to check with &&
 		else if(avg<90&&avg>=80){
 			return "A";
 		}
