@@ -1,7 +1,8 @@
 package com.oopsbased.program;
 
 import java.util.Scanner;
-
+//Write generalized method
+//no main method here.
 public class MathTables {
 	public static void main(String[] args) {
 	long a,b=0,c;
