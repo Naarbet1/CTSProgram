@@ -1,0 +1,9 @@
+package com.oopsbased.programstests;
+
+import com.basic.programs.LuckyNumber;
+
+public class LuckyNumberTest {
+	public static void main(String[] args) {
+	LuckyNumber toGetSumOfDigits = new LuckyNumber();
+	System.out.println(toGetSumOfDigits.luckyNo(663));
+}}

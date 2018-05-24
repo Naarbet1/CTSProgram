@@ -1,0 +1,11 @@
+package com.basic.programstest;
+
+import com.basic.programs.PrimeOrNot;
+
+public class PrimeOrNotTest {
+	public static void main(String[] args) {
+	
+		PrimeOrNot primeOrNot = new PrimeOrNot();
+		System.out.println(primeOrNot.Prime(50));
+	}
+}

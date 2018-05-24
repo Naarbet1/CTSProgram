@@ -1,0 +1,11 @@
+package com.basic.programstest;
+
+import com.basic.programs.ReverseNumber;
+
+public class ReverseNumberTest {
+	public static void main(String[] args) {
+		ReverseNumber revNo=new ReverseNumber();
+		System.out.println(revNo.reverseNo(456));
+	}
+
+}

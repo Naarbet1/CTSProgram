@@ -1,10 +1,11 @@
 package com.cts.modeltest;
+
 import java.util.List;
 import com.cts.model.Employee;
 import com.cts.modelimpl.EmployeeImpl;
 import com.cts.modelimpl.EmployeeService;
 
-public class EmployeeTest{
+public class EmployeeTest {
 
 	public static void main(String[] args) {
 		EmployeeService empService = new EmployeeImpl();

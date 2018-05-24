@@ -1,0 +1,11 @@
+package com.oopsbased.programstests;
+
+import com.basic.programs.Palindrome;
+
+public class PalindromeTest {
+
+	public static void main(String args[]) {
+		Palindrome palindromee = new Palindrome();
+		System.out.println(palindromee.palind(122221));
+	}
+}
