@@ -1,6 +1,8 @@
 package com.oopsbased.program;
 
 public class NumberToString {
+    //what is num and val??
+    //Why two parameters?
     public static void numberToWord(int num, String val) {
         String ones[] = {" ", " ONE", " TWO", " THREE", " FOUR", " FIVE", " SIX", " SEVEN", " EIGHT", " NINE", " TEN", " ELEVEN", " TWELVE", " THIRTEEN", " FOURTEEN", " FIFTEEN", " SIXTEEN", " SEVENTEEN", " EIGHTEEN", " NINETEEN"
         };

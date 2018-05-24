@@ -1,5 +1,7 @@
 package com.oopsbased.program;
 
+//do not write main method
+//wrong logic.
 public class RangePrimeNumber {
 	public static void main(String args[]) {
 		
