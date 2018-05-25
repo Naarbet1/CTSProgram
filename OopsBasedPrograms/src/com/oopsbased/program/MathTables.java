@@ -1,13 +1,9 @@
 package com.oopsbased.program;
-
-import java.util.Scanner;
 //Write generalized method
 //no main method here.
 public class MathTables {
-	public static void main(String[] args) {
-	long a,b=0,c;
-	Scanner x=new Scanner(System.in);
-	a=x.nextInt();
+	public void tables(int a) {
+	int b=0,c=1;
 	for(;b<11;b++)
 	{
 		c=a*b;

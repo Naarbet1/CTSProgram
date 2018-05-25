@@ -21,16 +21,6 @@ public class MarkAssesment {
 			return "B";
 				
 				//why so many return "FAIL" statements??
-		case 4:
-			return "Fail";
-		case 3:
-			return "Fail";
-		case 2:
-			return "Fail";
-		case 1:
-			return "Fail";
-		case 0:
-			return "Fail";
 		}}else
 			return "Fail";
 		return "";
@@ -41,20 +31,20 @@ public class MarkAssesment {
 		float avg=(m1+m2+m3)/3;
 		if(m1>40&&m2>40&&m3>40){
 		if(avg<=100){
-		if(avg>=90&&avg<=100){
+		if(avg>=90){
 			return "A+";
 		}
 			//why to check with &&
-		else if(avg<90&&avg>=80){
+		else if(avg>=80){
 			return "A";
 		}
-		else if(avg<80&&avg>=70){
+		else if(avg>=70){
 			return "A-";
 		}
-		else if(avg<70&&avg>=60){
+		else if(avg>=60){
 			return "B+";
 		}
-		else if(avg<60&&avg>=50){
+		else if(avg>=50){
 			return "B";
 		}
 		else{

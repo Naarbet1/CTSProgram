@@ -3,8 +3,7 @@ package com.oopsbased.program;
 //do not write main method
 //wrong logic.
 public class RangePrimeNumber {
-	public static void main(String args[]) {
-		
+	public void PrimeNoRange(int n) {
 		for (int a = 2; a < 101; a++) {
 			if (a % 2 == 0 || a % 3 == 0 || a % 5 == 0 || a % 7 == 0) {
 				if (a == 2 || a == 3 || a == 5 || a == 7) {

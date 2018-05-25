@@ -6,6 +6,6 @@ public class PalindromeTest {
 
 	public static void main(String args[]) {
 		Palindrome palindromee = new Palindrome();
-		System.out.println(palindromee.palind(122221));
+		System.out.println(palindromee.isPalindrome(122221));
 	}
 }

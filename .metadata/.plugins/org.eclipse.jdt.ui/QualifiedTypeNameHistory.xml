@@ -7,4 +7,7 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="com.cts.model.EmployeeDetails"/>
 <fullyQualifiedTypeName name="com.cts.modelimpl.EmployeeService"/>
+<fullyQualifiedTypeName name="javax.swing.table.TableStringConverter"/>
+<fullyQualifiedTypeName name="com.oopsbased.program.MathTables"/>
+<fullyQualifiedTypeName name="com.cts.patternprograms.PrintStars"/>
 </qualifiedTypeNameHistroy>
