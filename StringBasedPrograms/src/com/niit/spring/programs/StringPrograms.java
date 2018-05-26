@@ -1,13 +1,15 @@
 package com.niit.spring.programs;
 
-import java.awt.image.ReplicateScaleFilter;
-
 public class StringPrograms {
-	public boolean isEquals(String a, String b) {
-		if (a == b) {
-			return true;
-		} else
-			return false;
+	public boolean isEquals(String a, String b) {int i;
+	
+	
+			for (i = a.length()-1; i >= 0; i--) {
+				if (a.charAt(i) == b.charAt(i)) {
+					return true;
+				}
+			}
+				return false;
 	}
 
 	public String toReverseString(String s) {
