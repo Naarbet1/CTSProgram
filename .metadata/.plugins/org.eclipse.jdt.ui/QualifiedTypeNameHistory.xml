@@ -10,4 +10,9 @@
 <fullyQualifiedTypeName name="javax.swing.table.TableStringConverter"/>
 <fullyQualifiedTypeName name="com.oopsbased.program.MathTables"/>
 <fullyQualifiedTypeName name="com.cts.patternprograms.PrintStars"/>
+<fullyQualifiedTypeName name="com.niit.spring.programs.StringEqualOrNot"/>
+<fullyQualifiedTypeName name="java.time.format.ResolverStyle"/>
+<fullyQualifiedTypeName name="java.awt.image.ReplicateScaleFilter"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.niit.spring.programs.TrimSentence"/>
 </qualifiedTypeNameHistroy>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/OopsBasedPrograms/src/com/oopsbased/programstest/EvenOrNotTest.java"/>
+<listEntry value="/OopsBasedPrograms/src/com/cts/assignment/core/java/test/EvenOrNotTest.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.oopsbased.programstest.EvenOrNotTest"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.cts.assignment.core.java.test.EvenOrNotTest"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="OopsBasedPrograms"/>
 </launchConfiguration>
