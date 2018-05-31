@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.home {
+	background-image: url("../Image/Login.jpeg");
+}
+/* center{
+	background-color: aqua;
+}
+ */
+.empheading
+{
+	font-size: 40px;
+	color: #ff0080;
+	text-align: center;
+}

@@ -13,6 +13,7 @@
 <fullyQualifiedTypeName name="com.niit.spring.programs.StringEqualOrNot"/>
 <fullyQualifiedTypeName name="java.time.format.ResolverStyle"/>
 <fullyQualifiedTypeName name="java.awt.image.ReplicateScaleFilter"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="com.niit.spring.programs.TrimSentence"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>
