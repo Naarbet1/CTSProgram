@@ -97,7 +97,7 @@ public class MyString {
 		}
 		return new String(f);
 	}
-	public String toTrim(String trims) {
+	public void toTrim(String trims) {
 
 
-}
+}}

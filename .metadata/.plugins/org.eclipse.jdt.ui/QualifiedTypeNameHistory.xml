@@ -16,4 +16,8 @@
 <fullyQualifiedTypeName name="com.niit.spring.programs.TrimSentence"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.cts.dbconnections.DbConnection"/>
 </qualifiedTypeNameHistroy>

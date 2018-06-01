@@ -6,7 +6,7 @@ public class MyStringTest {
 	public static void main(String[] args) {
 		// Compare Two String
 		MyString string = new MyString();
-		/*String s1 = new String("Hello");
+		String s1 = new String("Hello");
 		String s2 = new String("Hello");
 		System.out.println(string.isEquals(s1, s2));
 		System.out.println(string.isEquals("Xavier's 1st Laptop", "Xavier's 1st Laptop"));
@@ -28,6 +28,6 @@ public class MyStringTest {
 		System.out.println(string.noOfWords("My Name is Xavier."));
 		// Remove Extra Strings
 		System.out.println(string.removeExtraSpace("My  Name             is Xavier."));
-		*/System.out.println(string.toTrim("   Hi   Guys   "));
+		System.out.println(string.toTrim("   Hi   Guys   "));
 		}
 }
