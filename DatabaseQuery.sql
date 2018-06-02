@@ -18,3 +18,5 @@ SELECT * FROM employee WHERE dept_id = 10 OR dept_id = 12;//display particular s
 update employee SET salary = 5000 WHERE emp_id = 304
 
 ALTER TABLE department ADD PRIMARY KEY (department_ID);
+
+select * from employee where hire_date >'1991-01-01'//to check the hire date
