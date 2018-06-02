@@ -20,4 +20,8 @@
 <fullyQualifiedTypeName name="java.sql.DriverManager"/>
 <fullyQualifiedTypeName name="java.sql.SQLException"/>
 <fullyQualifiedTypeName name="com.cts.dbconnections.DbConnection"/>
+<fullyQualifiedTypeName name="com.cts.login.UserService"/>
+<fullyQualifiedTypeName name="com.cts.login.UserServiceImpl"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
 </qualifiedTypeNameHistroy>

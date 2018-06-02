@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="LogIn">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="LoginBackend.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/LoginBackend/LoginBackend">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="LogIn"/>
+        <property name="java-output-path" value="/LogIn/build/classes"/>
+    </wb-module>
+</project-modules>

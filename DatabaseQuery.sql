@@ -15,4 +15,6 @@ ALTER TABLE employee DROP department_name;//to remove particular column
 
 SELECT * FROM employee WHERE dept_id = 10 OR dept_id = 12;//display particular set of employee by any unique id
 
-update employee SET salary = 5000 WHERE emp_id = 30
+update employee SET salary = 5000 WHERE emp_id = 304
+
+ALTER TABLE department ADD PRIMARY KEY (department_ID);
